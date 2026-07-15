@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+out/
+dist/
+*.mp4
+*.mov
+*.wav
+*.mp3
+.venv/
+.venv-f5-tts/
+__pycache__/
+*.pyc

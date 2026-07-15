@@ -1,0 +1,201 @@
+{
+  "profiles": {
+    "male_mature_history": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-YunyangNeural",
+      "language": "zh-CN",
+      "gender": "male",
+      "age_band": "mature_adult",
+      "delivery": "history_documentary",
+      "emotion": "calm_sober",
+      "rate": "-10%",
+      "pitch": "-2Hz",
+      "allowed_for": ["history", "war", "strategy", "documentary"]
+    },
+    "male_young_commercial": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-YunxiNeural",
+      "language": "zh-CN",
+      "gender": "male",
+      "age_band": "young_adult",
+      "delivery": "commercial_explainer",
+      "emotion": "confident_clean",
+      "rate": "-4%",
+      "pitch": "+0Hz",
+      "allowed_for": ["business", "product", "commercial", "explainer"]
+    },
+    "female_young_warm_lifestyle": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "language": "zh-CN",
+      "gender": "female",
+      "age_band": "young_adult",
+      "delivery": "warm_lifestyle",
+      "emotion": "warm_close",
+      "rate": "-6%",
+      "pitch": "+1Hz",
+      "allowed_for": ["food", "lifestyle", "travel", "family"]
+    },
+    "female_mature_documentary": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-XiaoyiNeural",
+      "language": "zh-CN",
+      "gender": "female",
+      "age_band": "mature_adult",
+      "delivery": "documentary",
+      "emotion": "calm_warm",
+      "rate": "-8%",
+      "pitch": "-1Hz",
+      "allowed_for": ["history", "biography", "education", "documentary"]
+    },
+    "male_dramatic_story": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-YunjianNeural",
+      "language": "zh-CN",
+      "gender": "male",
+      "age_band": "mature_adult",
+      "delivery": "dramatic_story",
+      "emotion": "solemn_rhythmic",
+      "rate": "-8%",
+      "pitch": "-3Hz",
+      "allowed_for": ["myth", "story", "war", "trailer"]
+    },
+    "male_child_bright": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-YunxiaNeural",
+      "language": "zh-CN",
+      "gender": "male",
+      "age_band": "child",
+      "delivery": "bright_childlike",
+      "emotion": "curious_bright",
+      "rate": "-2%",
+      "pitch": "+2Hz",
+      "allowed_for": ["children", "family", "education"]
+    },
+    "female_young_clean_explainer": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-XiaoyiNeural",
+      "language": "zh-CN",
+      "gender": "female",
+      "age_band": "young_adult",
+      "delivery": "clean_explainer",
+      "emotion": "clear_friendly",
+      "rate": "-2%",
+      "pitch": "+0Hz",
+      "allowed_for": ["education", "science", "knowledge", "tutorial"]
+    },
+    "female_news_documentary": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "language": "zh-CN",
+      "gender": "female",
+      "age_band": "mature_adult",
+      "delivery": "news_documentary",
+      "emotion": "neutral_trustworthy",
+      "rate": "-8%",
+      "pitch": "-2Hz",
+      "allowed_for": ["news", "current_affairs", "documentary", "public_information"]
+    },
+    "female_northeast_character": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-liaoning-XiaobeiNeural",
+      "language": "zh-CN-liaoning",
+      "gender": "female",
+      "age_band": "young_adult",
+      "delivery": "regional_character",
+      "emotion": "lively_grounded",
+      "rate": "-3%",
+      "pitch": "+0Hz",
+      "allowed_for": ["regional_story", "comedy", "lifestyle", "local_culture"]
+    },
+    "female_shaanxi_folk_story": {
+      "provider": "edge_tts",
+      "voice": "zh-CN-shaanxi-XiaoniNeural",
+      "language": "zh-CN-shaanxi",
+      "gender": "female",
+      "age_band": "mature_adult",
+      "delivery": "regional_folk_story",
+      "emotion": "earthy_storytelling",
+      "rate": "-6%",
+      "pitch": "-1Hz",
+      "allowed_for": ["folk_story", "regional_history", "culture", "travel"]
+    },
+    "female_taiwan_warm_story": {
+      "provider": "edge_tts",
+      "voice": "zh-TW-HsiaoChenNeural",
+      "language": "zh-TW",
+      "gender": "female",
+      "age_band": "mature_adult",
+      "delivery": "warm_story",
+      "emotion": "soft_sincere",
+      "rate": "-6%",
+      "pitch": "+0Hz",
+      "allowed_for": ["story", "lifestyle", "culture", "travel"]
+    },
+    "female_taiwan_young_lifestyle": {
+      "provider": "edge_tts",
+      "voice": "zh-TW-HsiaoYuNeural",
+      "language": "zh-TW",
+      "gender": "female",
+      "age_band": "young_adult",
+      "delivery": "young_lifestyle",
+      "emotion": "fresh_playful",
+      "rate": "-2%",
+      "pitch": "+1Hz",
+      "allowed_for": ["lifestyle", "food", "travel", "entertainment"]
+    },
+    "male_taiwan_documentary": {
+      "provider": "edge_tts",
+      "voice": "zh-TW-YunJheNeural",
+      "language": "zh-TW",
+      "gender": "male",
+      "age_band": "mature_adult",
+      "delivery": "taiwan_documentary",
+      "emotion": "calm_reflective",
+      "rate": "-7%",
+      "pitch": "-1Hz",
+      "allowed_for": ["documentary", "culture", "history", "travel"]
+    },
+    "female_cantonese_lively": {
+      "provider": "edge_tts",
+      "voice": "zh-HK-HiuGaaiNeural",
+      "language": "zh-HK",
+      "gender": "female",
+      "age_band": "young_adult",
+      "delivery": "cantonese_lively",
+      "emotion": "bright_social",
+      "rate": "-2%",
+      "pitch": "+1Hz",
+      "allowed_for": ["hong_kong", "cantonese", "entertainment", "social_media"]
+    },
+    "female_hongkong_documentary": {
+      "provider": "edge_tts",
+      "voice": "zh-HK-HiuMaanNeural",
+      "language": "zh-HK",
+      "gender": "female",
+      "age_band": "mature_adult",
+      "delivery": "hongkong_documentary",
+      "emotion": "calm_observational",
+      "rate": "-6%",
+      "pitch": "-1Hz",
+      "allowed_for": ["hong_kong", "documentary", "culture", "news"]
+    },
+    "male_hongkong_story": {
+      "provider": "edge_tts",
+      "voice": "zh-HK-WanLungNeural",
+      "language": "zh-HK",
+      "gender": "male",
+      "age_band": "mature_adult",
+      "delivery": "hongkong_story",
+      "emotion": "steady_storytelling",
+      "rate": "-6%",
+      "pitch": "-2Hz",
+      "allowed_for": ["hong_kong", "cantonese", "story", "documentary"]
+    }
+  },
+  "assignments": {
+    "war": "male_mature_history",
+    "business": "male_young_commercial",
+    "food": "female_young_warm_lifestyle"
+  }
+}
