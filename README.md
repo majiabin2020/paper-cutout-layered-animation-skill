@@ -6,13 +6,25 @@
 
 ## 示例视频
 
-以下示例用于展示 V4.8 流程中的纸片分层、动态元素、字幕同步和多音色旁白能力：
+以下示例用于展示 V4.8 流程中的纸片分层、动态元素、字幕同步和多音色旁白能力。若播放器在某些网络环境下未加载，可点击视频文件名直接打开。
 
-| 类型 | 示例视频 |
-|---|---|
-| 战争 / 策略 | [war-strategy-v48.mp4](examples/videos/war-strategy-v48.mp4) |
-| 商业 / 产品 | [business-product-v48.mp4](examples/videos/business-product-v48.mp4) |
-| 美食 / 生活 | [food-lifestyle-v48.mp4](examples/videos/food-lifestyle-v48.mp4) |
+### 战争 / 策略
+
+<video src="https://raw.githubusercontent.com/majiabin2020/paper-cutout-layered-animation-skill/main/examples/videos/war-strategy-v48.mp4" controls width="720"></video>
+
+[打开视频文件](examples/videos/war-strategy-v48.mp4)
+
+### 商业 / 产品
+
+<video src="https://raw.githubusercontent.com/majiabin2020/paper-cutout-layered-animation-skill/main/examples/videos/business-product-v48.mp4" controls width="720"></video>
+
+[打开视频文件](examples/videos/business-product-v48.mp4)
+
+### 美食 / 生活
+
+<video src="https://raw.githubusercontent.com/majiabin2020/paper-cutout-layered-animation-skill/main/examples/videos/food-lifestyle-v48.mp4" controls width="720"></video>
+
+[打开视频文件](examples/videos/food-lifestyle-v48.mp4)
 
 这个 Skill 重点解决以下问题：
 
