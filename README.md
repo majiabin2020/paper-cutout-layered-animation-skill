@@ -6,25 +6,27 @@
 
 ## 示例视频
 
-以下示例用于展示 V4.8 流程中的纸片分层、动态元素、字幕同步和多音色旁白能力。若播放器在某些网络环境下未加载，可点击视频文件名直接打开。
+以下示例用于展示 V4.8 流程中的纸片分层、动态元素、字幕同步和多音色旁白能力。
+
+GitHub README 对原生 MP4 播放器支持有限，因此这里使用 GIF 预览直接展示效果，并保留 MP4 源视频文件。
 
 ### 战争 / 策略
 
-<video src="https://raw.githubusercontent.com/majiabin2020/paper-cutout-layered-animation-skill/main/examples/videos/war-strategy-v48.mp4" controls width="720"></video>
+![战争 / 策略示例](examples/previews/war-strategy-v48.gif)
 
-[打开视频文件](examples/videos/war-strategy-v48.mp4)
+[查看 MP4 源视频](examples/videos/war-strategy-v48.mp4)
 
 ### 商业 / 产品
 
-<video src="https://raw.githubusercontent.com/majiabin2020/paper-cutout-layered-animation-skill/main/examples/videos/business-product-v48.mp4" controls width="720"></video>
+![商业 / 产品示例](examples/previews/business-product-v48.gif)
 
-[打开视频文件](examples/videos/business-product-v48.mp4)
+[查看 MP4 源视频](examples/videos/business-product-v48.mp4)
 
 ### 美食 / 生活
 
-<video src="https://raw.githubusercontent.com/majiabin2020/paper-cutout-layered-animation-skill/main/examples/videos/food-lifestyle-v48.mp4" controls width="720"></video>
+![美食 / 生活示例](examples/previews/food-lifestyle-v48.gif)
 
-[打开视频文件](examples/videos/food-lifestyle-v48.mp4)
+[查看 MP4 源视频](examples/videos/food-lifestyle-v48.mp4)
 
 这个 Skill 重点解决以下问题：
 
