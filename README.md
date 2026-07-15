@@ -4,6 +4,16 @@
 
 一个通用的纸片分层动画视频生成 Skill，用于把任意主题转成具有纸片质感、分层素材、动态入场、旁白配音、中文字幕和 MP4 交付的短视频工作流。
 
+## 示例视频
+
+以下示例用于展示 V4.8 流程中的纸片分层、动态元素、字幕同步和多音色旁白能力：
+
+| 类型 | 示例视频 |
+|---|---|
+| 战争 / 策略 | [war-strategy-v48.mp4](examples/videos/war-strategy-v48.mp4) |
+| 商业 / 产品 | [business-product-v48.mp4](examples/videos/business-product-v48.mp4) |
+| 美食 / 生活 | [food-lifestyle-v48.mp4](examples/videos/food-lifestyle-v48.mp4) |
+
 这个 Skill 重点解决以下问题：
 
 - 纸片视频不能只是静态图片加淡入淡出；
